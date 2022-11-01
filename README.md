@@ -1,4 +1,4 @@
-### Hey there, I'm Chloe 👋 👩🏽‍💻
+# Hey there, I'm Chloe 👋 👩🏽‍💻
 
 <!--
 **chloegem/chloegem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
