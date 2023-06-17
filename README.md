@@ -3,7 +3,7 @@
 <!--
 **chloegem/chloegem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Microsoft Learn Student Ambassador which is a program that unifies STEM majors all around the world who develop technical and career skills as well as being campus leaders who help out their fellow colleagues, I am currently studying how to build a machine learning model using python, as well as the fundamentals of being a data scientist.
+I am a Microsoft Learn Student Ambassador which is a program that unifies STEM majors all around the world who develop technical and career skills as well as being campus leaders who help out their fellow colleagues. In addition, I share a deep interest in STEM and this is what triggered my educational path to pursue Computer Science. I also believe that I can embark on the path to contribute to society to make the planet a more sustainable place for everyone and every generation to come with the fundamentals of technology and ethics since I believe technology is a solution for most world conflicts rather than it being the enemy. 
 
 # What I'm focusing on 💫 
 <br>
